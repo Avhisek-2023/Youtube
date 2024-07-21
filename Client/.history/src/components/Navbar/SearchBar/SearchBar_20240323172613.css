@@ -1,0 +1,30 @@
+.SearchBar_Conatiner{
+    margin: auto;
+    display: flex;
+    flex-grow: 2;
+    height: 2rem;
+}
+
+.SearchBar_Conatiner2{
+    margin: auto;
+}
+
+.search_div{
+    display: flex;
+    margin: auto;
+    position: relative;
+    z-index: 91;
+}
+
+.iBox_SearchBar{
+    background-color: #fff;
+    height: 30rem;
+    border: 1px solid rgba(128,128,128,0.4);
+    color: black;
+    font-size: large;
+    padding: 0.2rem;
+    height: 2rem;
+    padding-left: 2rem;
+}
+
+.

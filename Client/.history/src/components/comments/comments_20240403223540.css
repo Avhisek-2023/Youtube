@@ -1,0 +1,45 @@
+.comments_sub_form_comments{
+    display: flex;
+    width: 70%;
+}
+.comment_ibox{
+    width: 88%;
+    padding: .5%;
+    padding-left: 2%;
+    background-color: transparent;
+    border: 0;
+    color: wheat;
+    border-bottom: 2PX SOLID grey;
+}
+
+.comment_add_btn_comments {
+    cursor: pointer;
+    border: 2px solid transparent;
+    border-bottom: 2px solid rgb(64,64,64);
+    color: #085da8;
+    font-size: large;
+    width: 20%;
+}
+.comment_add_btn_comments:hover{
+    border: 2px solid rgb(64,64,64,0.05);
+    border-bottom: 2px solid rgb(64,64,64);
+    background-color: rgba(240,248,255,0.05);
+}
+.display_comments_container{
+    padding: 1rem;
+}
+
+.comment_body{
+    color: rgb(197,197,197);
+    margin: 0;
+    margin-top: 0.5rem;
+}
+.user_comment{
+color: rgb(50,50,50);
+margin: 0;
+}
+.EditDelete_DisplayComment{
+padding: 0.2rem;
+margin: 0;
+
+}

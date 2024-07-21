@@ -1,0 +1,74 @@
+.container3_chanel{
+    border-bottom: 3px solid rgba(1,26,96,0.692);
+    padding: 0.5rem;
+    color: whitesmoke;
+    position: relative;
+}
+.chanel_logo_chanel{
+    border: 10px solid rgba(49,7,219,0.66);
+    width: 5rem;
+    height: 5rem;
+    border-radius: 100%;
+    display: flex;
+    margin: 0 auto;
+    background-color: rgba(92,135,4,0.769);
+}
+.chanel_logo_chanel b{
+    margin: auto;
+    font-size: 3rem;
+}
+.description_chanel{
+    text-align: center;
+}
+
+.container_pages_app{
+    display: flex;
+    background-color: rgb(19,19,19);
+}
+.channel_description {
+    font-size: 1.5rem;
+    color: initial;
+    margin-top: 6px;
+}
+.channel_name {
+    font-size: 3rem;
+    color: orangered;
+    font-family: serif;
+}
+.container2_pages_app{
+    width: calc(100vw - 4rem);
+    height: calc(100vh - 3.4rem);
+    border-top: 2px solid rgba(128,128,128,0.45);
+    /* color: white; */
+}
+
+.uploadbtn_chanel,.editbtn_chanel{
+    position: absolute;
+    right: 1rem;
+    top: 0.5rem;
+    background-color: blue;
+    padding: 0.5rem;
+    border: 2px solid transparent;
+    border-radius: 0.5rem;
+    color: white;
+    transition: all 1s;
+    cursor: pointer;
+}
+.uploadbtn_chanel{
+    top: 4rem;
+}
+.uploadbtn_chanel:hover,.editbtn_chanel:hover,.back_btn:hover{
+border: 2px solid;
+color: rgb(231,140,14);
+}
+.back_btn{
+    
+    background-color: blue;
+    padding: 0.5rem;
+    border: 2px solid transparent;
+    border-radius: 0.5rem;
+    color: white;
+    transition: all 1s;
+    cursor: pointer;
+    width: 100px;
+}

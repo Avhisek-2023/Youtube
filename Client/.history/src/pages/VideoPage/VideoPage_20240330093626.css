@@ -1,0 +1,41 @@
+.container_videoPage{
+    height: calc(100vh - 3.4rem);
+    overflow-y: auto;
+    background-color: rgb(11,11,11);
+    color: white;
+}
+.container2_videoPage{
+margin: 1.5rem 4.5rem;
+display: flex;
+}
+.video_display_screen_videopage{
+
+    width: calc(100vw - 4.5rem - 35vw);
+    padding: 1rem;
+
+}
+.video_showVideo_videoPage{
+padding: .1rem;
+height: 70vh;
+width: 100%;
+background-color: black;
+border: 1px solid rgba(37,37,37,0.5);
+}
+.video_details_videopage{
+
+}
+.video_btns_title_videoPage_cont{
+
+    border-bottom: 3px solid rgba(335,222,179,0.17);
+    flex-grow: 1;
+}
+.video_title_videopage{
+
+    
+}
+.views_date_btns_videoPage{
+
+}
+.views_videopage{
+
+}

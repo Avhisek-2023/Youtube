@@ -1,0 +1,8 @@
+.btn_cont_videoPage{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-grow: 5;   
+}
+.btn_videoPage{
+    margin: auto 0;
+}

@@ -1,0 +1,15 @@
+.container_leftSidebar{
+    background-color: rgb(25,25,25);
+    width: 4.7rem;
+    height: calc(100vh - 3.55rem);
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+.icon_sidebar_div{
+    cursor: pointer;
+    color: rgba(255 , 255 , 255 , 0.87);
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+}

@@ -1,0 +1,22 @@
+.container_libraryPage{
+    border-bottom: 1px solid grey;
+    padding: 1rem 2rem;
+    color: aliceblue;
+}
+.title_container_libraryPage{
+    margin: 0.5rem 4rem;
+}
+.title_container_libraryPage b{
+    margin: auto 5rem;
+    padding: auto 5rem;
+    font-size: medium;
+}
+.container_videoList_libraryPage{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-height: 80vh;
+    margin: 0;
+    overflow-y: auto;
+
+}

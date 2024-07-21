@@ -1,0 +1,9 @@
+.navigation_Home{
+    color: white;
+    background-color: rgb(37,37,37);
+    position: sticky;
+    display: flex;
+    overflow-x: auto;
+    top: 0;
+    border-bottom: 2px solid rgb(128,128,128);
+}

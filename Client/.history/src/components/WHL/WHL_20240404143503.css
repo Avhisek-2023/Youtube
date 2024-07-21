@@ -1,0 +1,6 @@
+.det{
+    margin: 0;
+    display: flex;
+    padding: 0.5rem;
+    justify-content: space-around;
+}

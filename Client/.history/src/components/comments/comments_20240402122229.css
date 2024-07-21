@@ -1,0 +1,17 @@
+.comments_sub_form_comments{
+    display: flex;
+    width: 70%;
+}
+.comment_ibox{
+    width: 88%;
+    padding: .5%;
+    padding-left: 2%;
+    background-color: transparent;
+    border: 0;
+    color: wheat;
+    border-bottom: 2PX SOLID grey;
+}
+
+.comment_add_btn_comments{
+    
+}
